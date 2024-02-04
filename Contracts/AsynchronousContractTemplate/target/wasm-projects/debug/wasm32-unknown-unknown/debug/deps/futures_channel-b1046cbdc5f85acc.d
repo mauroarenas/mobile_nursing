@@ -1,0 +1,9 @@
+/mnt/c/Users/laram/star2/Vara-Integration-Kit-ETH-2024-/Contracts/AsynchronousContractTemplate/target/wasm-projects/debug/wasm32-unknown-unknown/debug/deps/libfutures_channel-b1046cbdc5f85acc.rmeta: /home/mauro123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lib.rs /home/mauro123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lock.rs /home/mauro123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/oneshot.rs
+
+/mnt/c/Users/laram/star2/Vara-Integration-Kit-ETH-2024-/Contracts/AsynchronousContractTemplate/target/wasm-projects/debug/wasm32-unknown-unknown/debug/deps/libfutures_channel-b1046cbdc5f85acc.rlib: /home/mauro123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lib.rs /home/mauro123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lock.rs /home/mauro123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/oneshot.rs
+
+/mnt/c/Users/laram/star2/Vara-Integration-Kit-ETH-2024-/Contracts/AsynchronousContractTemplate/target/wasm-projects/debug/wasm32-unknown-unknown/debug/deps/futures_channel-b1046cbdc5f85acc.d: /home/mauro123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lib.rs /home/mauro123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lock.rs /home/mauro123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/oneshot.rs
+
+/home/mauro123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lib.rs:
+/home/mauro123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/lock.rs:
+/home/mauro123/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-channel-0.3.30/src/oneshot.rs:
